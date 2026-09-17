@@ -1,5 +1,5 @@
 const projects = [
-  { id: 'echo', title: 'ECHO CHAMBER ARCHIVE', subtitle: '回声室档案', year: '2025—2026', accent: '#00f060', image: 'assets/projects/echo/cover.svg', tags: 'Information Visualization / Interactive Media / TouchDesigner' },
+  { id: 'echo', title: 'ECHO CHAMBER ARCHIVES', subtitle: '回声室档案', year: '2025—2026', accent: '#00f060', image: 'assets/projects/echo/cover.svg', tags: 'Information Visualization / Interactive Media / TouchDesigner' },
   { id: 'abreath', title: 'ABREATH', subtitle: '一息 · 永春', year: '2025', accent: '#4d8f73', image: 'assets/projects/abreath/cover.svg', tags: 'Brand Identity / Packaging / Visual Identity' },
   { id: 'mengxi', title: 'MENGXI BITAN', subtitle: '梦溪笔谈', year: '2025', accent: '#f035a5', image: 'assets/projects/mengxi/cover.svg', tags: 'Information Visualization / Editorial Design' },
   { id: 'bodhisattva', title: 'DIGITAL BODHISATTVA', subtitle: '数字观音', year: '2024', accent: '#a8b7ff', image: 'assets/projects/bodhisattva/cover.svg', tags: 'Digital Art / Editorial Design' },
